@@ -1,0 +1,100 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Média
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            double nota1, nota2, media;
+
+            nota1 = double.Parse(txtNota1.Text);
+            nota2 = double.Parse(txtNota2.Text);
+
+            media = (nota1 + nota2) / 2;
+
+            txtMedia.Text = media.ToString();
+
+            if (media >= 7)
+                {
+                    pbEmoji.Image = Properties.Resources.feliz;
+                }
+            else if(media < 4)
+                {
+                    pbEmoji.Image = Properties.Resources.triste;
+                }
+            else
+            {
+                pbEmoji.Image = Properties.Resources.Neutro;
+            }
+        }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            txtNota1.Clear();
+            txtNota2.Clear();
+            txtMedia.Clear();
+            pbEmoji.Image = null;
+            txtNota1.Focus();
+        }
+
+        private void btnFechar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void txtMedia_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pbEmoji_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            double nota1, nota2, media;
+
+            nota1 = double.Parse(txtNota1.Text);
+            nota2 = double.Parse(txtNota2.Text);
+
+            media = (nota1 + nota2) / 2;
+
+            txtMedia.Text = media.ToString();
+
+            if (media >= 7)
+                {
+                txtSituacao.Text = ("Aprovado");
+            }
+            else if(media < 4)
+                {
+                txtSituacao.Text = ("Reprovado");
+            }
+            else
+            {
+                txtSituacao.Text = ("Recuperação");
+            }
+        }
+        
+    }
+}
