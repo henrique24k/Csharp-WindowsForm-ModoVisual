@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace recapitulando
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnExibir_Click(object sender, EventArgs e)
+        {
+            string nome, situacao;
+            int idade;
+
+            nome = txtNome1.Text;
+            situacao = txtSituacao.Text;
+            idade = trackBar1.Value;
+
+            if (idade >= 18)
+            {
+                situacao = "Maior de idade";
+            }
+            else
+            {
+                situacao = "menor de idade";
+            }
+
+            txtNome2.Text = nome;
+            txtIdade.Text = idade.ToString();
+            txtSituacao.Text = situacao;
+
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            lblIdade.Text = trackBar1.Value.ToString();
+        }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            txtNome1.Clear();
+            txtNome2.Clear();
+            txtIdade.Clear();
+            txtSituacao.Clear();
+            trackBar1.Value = 1;
+            lblIdade.Text = "Idade";
+        }
+    }
+}
