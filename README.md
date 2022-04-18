@@ -1,2 +1,2 @@
 # C#-WindowsForm-ModoVisual
- Exercicios de C# no Modo Visual
+ Exercicios de C# no modo Visual
