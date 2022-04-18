@@ -1,0 +1,78 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FornecerDados
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnExibir_Click(object sender, EventArgs e)
+        {
+            string nome, situacao;
+            int idade;
+
+            nome = txtNome1.Text;
+            idade = trackBar1.Value;
+            situacao = txtSituacao.Text;
+
+            if(idade >= 18)
+            {
+                situacao = "Maior de idade";
+            }
+            else
+            {
+                situacao = "Menor de idade";
+            }
+
+            txtNome2.Text = nome;
+            txtIdade.Text = idade.ToString();
+            txtSituacao.Text = situacao;
+
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            lblValor.Text = trackBar1.Value.ToString();
+        }
+
+        private void btnfechar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            txtNome1.Clear();
+            txtNome2.Clear();
+            txtIdade.Clear();
+            txtSituacao.Clear();
+            txtNome1.Focus();
+        }
+    }
+}
