@@ -1,0 +1,17 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.Form1.resources
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.csproj.GenerateResource.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\bin\Debug\net6.0-windows\tabuada.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\bin\Debug\net6.0-windows\tabuada.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\bin\Debug\net6.0-windows\tabuada.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\bin\Debug\net6.0-windows\tabuada.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\bin\Debug\net6.0-windows\tabuada.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\refint\tabuada.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\tabuada.genruntimeconfig.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuada\tabuada\obj\Debug\net6.0-windows\ref\tabuada.dll
