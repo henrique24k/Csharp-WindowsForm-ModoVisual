@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C3A8C6C-C25D-4773-AA69-9F3849D3824A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetoInterDisciplinar</RootNamespace>
+    <AssemblyName>ProjetoInterDisciplinar</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dados.cs" />
+    <Compile Include="FormP1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP1.Designer.cs">
+      <DependentUpon>FormP1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP10.Designer.cs">
+      <DependentUpon>FormP10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP2.Designer.cs">
+      <DependentUpon>FormP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP3.Designer.cs">
+      <DependentUpon>FormP3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP4.Designer.cs">
+      <DependentUpon>FormP4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP5.Designer.cs">
+      <DependentUpon>FormP5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP6.Designer.cs">
+      <DependentUpon>FormP6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP7.Designer.cs">
+      <DependentUpon>FormP7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP8.Designer.cs">
+      <DependentUpon>FormP8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormP9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormP9.Designer.cs">
+      <DependentUpon>FormP9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormParabens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormParabens.Designer.cs">
+      <DependentUpon>FormParabens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormResultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormResultado.Designer.cs">
+      <DependentUpon>FormResultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormP1.resx">
+      <DependentUpon>FormP1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP10.resx">
+      <DependentUpon>FormP10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP2.resx">
+      <DependentUpon>FormP2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP3.resx">
+      <DependentUpon>FormP3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP4.resx">
+      <DependentUpon>FormP4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP5.resx">
+      <DependentUpon>FormP5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP6.resx">
+      <DependentUpon>FormP6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP7.resx">
+      <DependentUpon>FormP7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP8.resx">
+      <DependentUpon>FormP8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormP9.resx">
+      <DependentUpon>FormP9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormParabens.resx">
+      <DependentUpon>FormParabens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormResultado.resx">
+      <DependentUpon>FormResultado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
