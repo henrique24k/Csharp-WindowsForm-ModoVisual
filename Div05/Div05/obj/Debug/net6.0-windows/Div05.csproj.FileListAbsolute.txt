@@ -1,0 +1,17 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\bin\Debug\net6.0-windows\Div05.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\bin\Debug\net6.0-windows\Div05.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\bin\Debug\net6.0-windows\Div05.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\bin\Debug\net6.0-windows\Div05.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\bin\Debug\net6.0-windows\Div05.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.Form1.resources
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.csproj.GenerateResource.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\refint\Div05.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\Div05.genruntimeconfig.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Div05\Div05\obj\Debug\net6.0-windows\ref\Div05.dll
