@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\comissao\comissao\bin\Debug\comissao.exe.config
+C:\Users\Manager\Desktop\comissao\comissao\bin\Debug\comissao.exe
+C:\Users\Manager\Desktop\comissao\comissao\bin\Debug\comissao.pdb
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.Form1.resources
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.Properties.Resources.resources
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.exe
+C:\Users\Manager\Desktop\comissao\comissao\obj\Debug\comissao.pdb
