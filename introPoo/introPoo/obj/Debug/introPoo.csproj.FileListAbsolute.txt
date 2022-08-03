@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\introPoo\introPoo\bin\Debug\introPoo.exe.config
+C:\Users\Manager\Desktop\introPoo\introPoo\bin\Debug\introPoo.exe
+C:\Users\Manager\Desktop\introPoo\introPoo\bin\Debug\introPoo.pdb
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.Form1.resources
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.Properties.Resources.resources
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.exe
+C:\Users\Manager\Desktop\introPoo\introPoo\obj\Debug\introPoo.pdb
