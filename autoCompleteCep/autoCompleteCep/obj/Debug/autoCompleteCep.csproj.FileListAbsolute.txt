@@ -1,0 +1,10 @@
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\bin\Debug\autoCompleteCep.exe.config
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\bin\Debug\autoCompleteCep.exe
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\bin\Debug\autoCompleteCep.pdb
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.Form1.resources
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.Properties.Resources.resources
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.exe
+C:\Users\hvmar\Desktop\autoCompleteCep\autoCompleteCep\obj\Debug\autoCompleteCep.pdb
