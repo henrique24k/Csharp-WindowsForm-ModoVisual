@@ -1,0 +1,17 @@
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\bin\Debug\net6.0-windows\cadastarPessoaHeranca.exe
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\bin\Debug\net6.0-windows\cadastarPessoaHeranca.deps.json
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\bin\Debug\net6.0-windows\cadastarPessoaHeranca.runtimeconfig.json
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\bin\Debug\net6.0-windows\cadastarPessoaHeranca.dll
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\bin\Debug\net6.0-windows\cadastarPessoaHeranca.pdb
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.Form1.resources
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.AssemblyInfoInputs.cache
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.AssemblyInfo.cs
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.dll
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\refint\cadastarPessoaHeranca.dll
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.pdb
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\cadastarPessoaHeranca.genruntimeconfig.cache
+C:\Users\hvmar\Desktop\cadastarPessoaHeranca\cadastarPessoaHeranca\obj\Debug\net6.0-windows\ref\cadastarPessoaHeranca.dll
