@@ -1,0 +1,9 @@
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.Form1.resources
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.Properties.Resources.resources
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\bin\Debug\introducaoEncapsulamento.exe.config
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\bin\Debug\introducaoEncapsulamento.exe
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\bin\Debug\introducaoEncapsulamento.pdb
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.exe
+C:\Users\hvmar\Desktop\introducaoEncapsulamento\introducaoEncapsulamento\obj\Debug\introducaoEncapsulamento.pdb
