@@ -1,0 +1,10 @@
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\bin\Debug\comissaoVendas.exe.config
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\bin\Debug\comissaoVendas.exe
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\bin\Debug\comissaoVendas.pdb
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.Form1.resources
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.Properties.Resources.resources
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.exe
+C:\Users\hvmar\Desktop\comissaoVendas\comissaoVendas\obj\Debug\comissaoVendas.pdb
