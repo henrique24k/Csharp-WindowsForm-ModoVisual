@@ -1,0 +1,10 @@
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.Form1.resources
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.Properties.Resources.resources
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\bin\Debug\exercicoPolimorfismo.exe.config
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\bin\Debug\exercicoPolimorfismo.exe
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\bin\Debug\exercicoPolimorfismo.pdb
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.exe
+C:\Users\hvmar\Desktop\exercicoPolimorfismo\exercicoPolimorfismo\obj\Debug\exercicoPolimorfismo.pdb
