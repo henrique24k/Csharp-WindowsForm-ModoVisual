@@ -1,0 +1,10 @@
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\bin\Debug\calcularArea.exe.config
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\bin\Debug\calcularArea.exe
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\bin\Debug\calcularArea.pdb
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.Form1.resources
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.Properties.Resources.resources
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.exe
+C:\Users\hvmar\Desktop\calcularArea\calcularArea\obj\Debug\calcularArea.pdb
