@@ -1,0 +1,10 @@
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.Properties.Resources.resources
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.csproj.GenerateResource.cache
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\bin\Debug\introClasseAbstrata.exe.config
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\bin\Debug\introClasseAbstrata.exe
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\bin\Debug\introClasseAbstrata.pdb
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.exe
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.pdb
+C:\Users\hvmar\Desktop\introClasseAbstrata\introClasseAbstrata\obj\Debug\introClasseAbstrata.rbDw.resources

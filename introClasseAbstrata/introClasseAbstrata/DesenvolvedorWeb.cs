@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace introClasseAbstrata
+{
+    class DesenvolvedorWeb: Funcionario
+    {
+        public override void Reajustar()
+        {
+            Salario += 900;
+        }
+    }
+}
